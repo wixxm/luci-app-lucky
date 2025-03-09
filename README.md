@@ -1,4 +1,6 @@
-
+## 本插件作者为gdy666插件库地址
+https://github.com/gdy666/luci-app-lucky/tree/main
+## 本库的目的是为了备份2.14.0版本
 ## 怎么确定当前系统CPU架构下载相应lucky核心包
 复制以下指令到终端执行,根据显示下载文件名含有架构字符串的ipk包
 ```
